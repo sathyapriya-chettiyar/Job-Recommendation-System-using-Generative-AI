@@ -1,0 +1,26 @@
+streamlit
+openai 
+pymupdf 
+python-dotenv
+apify-client
+
+
+
+Command
+ollama list
+ollama pull phi3:mini
+ollama list
+
+
+ brew --version
+ brew install ollama
+ ollama --version
+ ollama serve
+
+ streamlit run app.py
+
+ uv add "mcp[cli]"
+ mcp dev mcp_server.py
+ python -m mcp dev mcp_server.py
+ uv run mcp dev mcp_server.py
+
